@@ -25,15 +25,26 @@ This week I've been having issues with Ed's comp220 lecture materials, as I have
 This week was the week with our comp230 essay deadline, which I unfortunately spent the whole week doing as opposed to doing it iteratively during past weeks. I managed to submit it in time, however the essay itself could be improved. To avoid crunching issues like this next time, I will avoid distractions and try to write down a schedule regarding this to make it easier for myself.
 
 
+
 ## 5 key challenges across different domains:
 Dispositional domain:
 Managing my time better, as experienced with the ethics essay.
 
+SMART actions:
+
 Interpersonal domain:
 This could be improved, specifically during our game group project where I need to be more involved.
+
+SMART actions:
 
 Cognitive domain:
 This needs to be more focused on regarding my programming knowledge as I still think I have room for improvement in it.
 
+SMART actions:
+
 Procedural domain:
 This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps.
+
+SMART actions:
+
+
