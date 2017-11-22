@@ -26,3 +26,14 @@ This week was the week with our comp230 essay deadline, which I unfortunately sp
 
 
 ## 5 key challenges across different domains:
+Dispositional domain:
+Managing my time better, as experienced for the ethics essay.
+
+Interpersonal domain:
+This could be improved, specifically during our game group project where I need to be more involved.
+
+Cognitive domain:
+This needs to be more focused on regarding my programming knowledge as I still think I have room for improvement in it.
+
+Procedural domain:
+This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps.
