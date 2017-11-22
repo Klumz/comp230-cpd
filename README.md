@@ -15,3 +15,9 @@ This week we had a group pitch for our game. The various topics for the pitch we
 ## Week Five
 This week I have been trying to find the right research question for the ethics essay task. Despite this being a broad subject, it has been challenging as I keep finding topics many have already written about. I've been having personal family issues recently as well, so this is something I'll have to sort out before it severely affects my performance. 
 
+# Week Six
+This week was reading week, however I spent most of my time going back and forth between doing personal work and collaborating with the BAs for our group project. Fortunately, our BA group was understanding and told us to take our time and come in when we're done and ready the following week.
+
+# Week Seven
+
+# Week Eight
