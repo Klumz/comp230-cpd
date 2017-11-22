@@ -27,19 +27,19 @@ This week was the week with our comp230 essay deadline, which I unfortunately sp
 
 
 ## 5 key challenges across different domains:
-Dispositional domain & SMART action:
+### Dispositional domain & SMART action:
 Managing my time better, as experienced with the ethics essay.
 
 
-Interpersonal domain & SMART action:
+### Interpersonal domain & SMART action:
 This could be improved, specifically during our game group project where I need to be more involved.
 
 
-Cognitive domain & SMART action:
+### Cognitive domain & SMART action:
 This needs to be more focused on regarding my programming knowledge as I still think I have room for improvement in it. A more specific example of the language I need to improve is C++. I will improve this by (((SMART action))) both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project.
 
 
-Procedural domain & SMART action:
+### Procedural domain & SMART action:
 This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps. 
 
 
