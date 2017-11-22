@@ -13,10 +13,10 @@ This week, my biggest challenge was understanding our maths library task for com
 This week we had a group pitch for our game. The various topics for the pitch were split up, so we all had a chance to contribute by giving our own information on each of our pieces that were later merged into one. A challenge this week for me was the comp210 interview task. It was a mixture of making and using the right questions, finding interviewees and learning HTML for the website itself. I will sit down and work through it thoroughly.
 
 ## Week Five
-This week I have been trying to find the right research question for the ethics essay task. Despite this being a broad subject, it has been challenging as I keep finding topics many have already written about. I've been having personal family issues recently as well, so this is something I'll have to sort out before it severely affects my performance. 
+This week I have been trying to find the right research question for the ethics essay task. Despite this being a broad subject, it has been challenging as I keep finding topics many have already written about. 
 
 # Week Six
-This week was reading week, however I spent most of my time going back and forth between doing personal work and collaborating with the BAs for our group project. Fortunately, our BA group was understanding and told us to take our time and come in when we're done and ready the following week.
+This week was reading week, however I spent most of my time going back and forth between doing personal work and collaborating with the BAs for our group project. Fortunately, our BA group was understanding and told us to take our time and come in when we're done and ready the following week. A challenge I found this week was a more personal one, specifically family related, so this is something I'll have to sort out before it severely affects my performance. 
 
 # Week Seven
 
