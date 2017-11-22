@@ -22,7 +22,7 @@ This week was reading week, however I spent most of my time going back and forth
 This week I've been having issues with Ed's comp220 lecture materials, as I haven't exactly been focusing too much on it as a result of its complexity, so I have some catching up to do.
 
 ## Week Eight
-This week was the week with our comp230 essay deadline, which I unfortunately spent the whole week doing as opposed to doing it iteratively during past weeks. I managed to submit it in time, however the essay itself could be improved. To avoid crunching issues like this next time, I will avoid distractions and try to write down a schedule regarding this to make it easier for myself.
+This week was the week with our comp230 essay deadline, which I unfortunately spent the whole week doing as opposed to doing it iteratively during past weeks. I managed to submit it in time, however the essay itself could be improved. To avoid crunching issues like this next time, I will avoid distractions and try to write down a timed schedule regarding this to make it easier for myself.
 
 
 
@@ -40,6 +40,6 @@ This needs to be more focused on regarding my programming knowledge as I still t
 
 
 Procedural domain & SMART action:
-This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps.
+This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps. 
 
 
