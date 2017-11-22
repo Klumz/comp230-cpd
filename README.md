@@ -27,7 +27,7 @@ This week was the week with our comp230 essay deadline, which I unfortunately sp
 
 ## 5 key challenges across different domains:
 Dispositional domain:
-Managing my time better, as experienced for the ethics essay.
+Managing my time better, as experienced with the ethics essay.
 
 Interpersonal domain:
 This could be improved, specifically during our game group project where I need to be more involved.
