@@ -1,7 +1,7 @@
 ## 5 key challenges across different domains (wip):
 
 ### Interpersonal domain & SMART action:
-This could be improved, specifically during our game group project where I need to be more involved.
+This needs improvement, specifically during our game group project where I need to be more involved.
 
 
 ### Cognitive domain & SMART action:
