@@ -1,3 +1,21 @@
+## 5 key challenges across different domains (wip):
+
+### Interpersonal domain & SMART action:
+This could be improved, specifically during our game group project where I need to be more involved.
+
+
+### Cognitive domain & SMART action:
+I need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project.
+
+
+### Procedural domain & SMART action:
+This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. 
+
+
+### Dispositional domain & SMART actions (2):
+Prioritising and planning my time better for course work, as I have been falling behind (specifically comp220). Another one would be to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. 
+
+
 # Weekly Reports
 
 ## Week One
@@ -23,23 +41,4 @@ This week I've been having issues with Ed's comp220 lecture materials, as I have
 
 ## Week Eight
 This week was the week with our comp230 essay deadline, which I unfortunately spent the whole week doing as opposed to doing it iteratively during past weeks. I managed to submit it in time, however the essay itself could be improved. To avoid crunching issues like this next time, I will avoid distractions and try to write down a timed schedule regarding this to make it easier for myself.
-
-
-
-## 5 key challenges across different domains:
-### Dispositional domain & SMART action:
-Managing my time better, as experienced with the ethics essay.
-
-
-### Interpersonal domain & SMART action:
-This could be improved, specifically during our game group project where I need to be more involved.
-
-
-### Cognitive domain & SMART action:
-This needs to be more focused on regarding my programming knowledge as I still think I have room for improvement in it. A more specific example of the language I need to improve is C++. I will improve this by (((SMART action))) both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project.
-
-
-### Procedural domain & SMART action:
-This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps. 
-
 
