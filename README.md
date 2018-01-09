@@ -42,3 +42,20 @@ This week I've been having issues with Brian's comp220 lecture materials, as I h
 ## Week Eight
 This week was the week with our comp230 essay deadline, which I unfortunately spent the whole week doing as opposed to doing it iteratively during past weeks. I managed to submit it in time, however the essay itself could be improved. To avoid crunching issues like this next time, I will avoid distractions and try to write down a timed schedule regarding this to make it easier for myself.
 
+## Week Nine
+This week I've been working on my VR project for comp220. Finding ideas for one was fun, although personally, involving physical parts into it isn't. I managed to make a mini-game with the FPS template rather than the VR one, as it is compatible with head mount displays. The physical parts are gonna be more of a challenge.
+
+
+## Week Ten
+I've been working on our work with approaching deadlines. Fortunately, again, my BA team was understanding and I used my time on BSc work.
+
+
+## Week Eleven
+This week has been a struggle. I've been focusing on work but it's proven challenging. I have also been absent in some lectures for comp 210 and 220 due to both common and personal reasons, resulting in me falling behind.
+
+
+## Week Twelve
+This is the final week, and I plan on finishing my work and reaching the deadlines.
+
+
+
