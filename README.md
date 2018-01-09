@@ -4,16 +4,19 @@
 My team communication needs improvement, specifically for our game group project where I need to be more engaged in our discussions. I want to be able to provide different ideas and my opinions in team discussions, rather than depending on ideas already mentioned. I feel my team communication has improved slightly towards the end of the semester, although more can be done. 
 
 
-### Cognitive domain & SMART action (wip):
-I need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project.
+### C++ and Java:
+I need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project. Another language I'll need to take a look at is Java, which will be needed for our next term regarding AI. 
 
 
-### Procedural domain & SMART action (wip):
+### Reaching out more for assistance:
 This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. 
 
 
-### Dispositional domain & SMART actions (2) (wip):
-Prioritising and planning my time better for course work, as I have been falling behind (specifically comp220). Another one would be to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. 
+### Prioritising course work:
+Prioritising and planning my time better for course work, as I have been falling behind (specifically comp220). Additionally, I need to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. 
+
+### Motivation 
+My motivation has been severely cut compared to my last year. I will need to improve this or else it will negatively affect both myself and my peers. I will need to push myself somehow so I can stop falling behind as I have recently and get back on track. 
 
 
 # Weekly Reports
