@@ -1,4 +1,4 @@
-## 5 key challenges across different domains (wip):
+## 5 key challenges across different domains:
 
 ### Team communication:
 My team communication needs improvement, specifically for our game group project where I need to be more engaged in our discussions. I want to be able to provide different ideas and my opinions in team discussions, rather than depending on ideas already mentioned. I feel my team communication has improved slightly towards the end of the semester, although more can be done. 
