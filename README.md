@@ -8,15 +8,16 @@ My team communication needs improvement, specifically for our game group project
 I need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project. Another language I'll need to take a look at is Java, which will be needed for our next term regarding AI. 
 
 
-### Reaching out more for assistance:
-This feeds in with cognitive domain as I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. 
-
-
 ### Prioritising course work:
-Prioritising and planning my time better for course work, as I have been falling behind (specifically comp220). Additionally, I need to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. 
+Prioritising and planning my time better for course work, as I have been falling behind (specifically comp220). Additionally, I need to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. I think creating a form of checklist can help with this which will force me to do what I have to do.
+
 
 ### Motivation 
-My motivation has been severely cut compared to my last year. I will need to improve this or else it will negatively affect both myself and my peers. I will need to push myself somehow so I can stop falling behind as I have recently and get back on track. 
+My motivation has been severely cut compared to my first year due to various/personal reasons. This has caused me to stand in a difficult state for this course. I will need to improve this or else it will negatively affect both myself and my peers, pushing myself somehow so I can stop falling behind as I have recently and get back on track. To address this, I will make a diary/personal journal I can write my thoughts, emotions and events in that I can use to improve myself both personally and for this course.
+
+
+### Reaching out more for assistance:
+I told myself at the start of my 2nd year that I would reach out more and use my lecturers for help whenever needed, no matter how small the issues may be. I still have yet to do this, and I am not certain why I find it so difficult to do so. I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. 
 
 
 # Weekly Reports
