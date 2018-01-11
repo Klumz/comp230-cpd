@@ -2,23 +2,23 @@
 
 
 ### C++ and Java:
-I *still* need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers. Another language I'll need to take a look at is Java, which will be needed for our next term regarding AI. I intend to look at Pluralsight tutorials for these two, although not sure which ones specifically yet.
+I *still* need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this for my course work, so I am able to provide more in-depth assistance to my peers. Another language I'll need to take a look at is Java, which will be needed for our next term regarding AI. I intend to look at Pluralsight tutorials for these two, although not sure which ones specifically yet.
 
 
 ### Prioritising course work:
-Prioritising and planning my time better for course work, as I have been falling behind (specifically comp220). Additionally, I need to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. I think creating a form of checklist can help with this which will force me to do what I have to do.
+Prioritising and planning my time better for course work, as I have been falling behind (especially comp220). Additionally, I need to avoid doing work at the last minute, as experienced with both the recent comp210 and comp230 submissions. I think creating a form of checklist can help with this which will force me to do what I have to do.
 
 
 ### Motivation 
-My motivation has been severely cut compared to my first year due to various/personal reasons. This has caused me to stand in a difficult state for this course. I will need to improve this or else it will negatively affect both myself and my peers, pushing myself somehow so I can stop falling behind as I have recently and get back on track. To address this, I will make a diary/personal journal I can write my thoughts, emotions and events in that I can use to improve myself both personally and for this course.
+My motivation has been severely cut compared to my first year due to various/personal reasons. This has caused me to stand in a difficult state for this course. I will need to improve this or else it will negatively affect both myself and my peers, pushing myself somehow so I can stop falling behind as I have recently. To address this, I will make a diary/personal journal I can write my thoughts, emotions and events in that I can use to improve myself both personally and for this course.
 
 
 ### Reaching out more for assistance:
-I told myself at the start of my 2nd year that I would reach out more and use my lecturers for help whenever needed, no matter how small the issues may be. I still have yet to do this, and I am not certain why I find it so difficult to do so. I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. Improving my motivation will also affect this, which will make it easier for me to ask my peers/lecturers for help rather than shying away and tackling it all myself.
+I told myself at the start of my 2nd year that I would reach out more and use my lecturers for help whenever needed, no matter how small the issues may be. I still have yet to do this, and I am not certain why I find it so difficult to do. I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. Improving my motivation will also affect this, which will make it easier for me to ask for help rather than shying away and tackling it all myself.
 
 
 ### Team communication:
-My team communication needs improvement, specifically for our game group project where I need to be more engaged in our discussions. I want to be able to provide different ideas and my opinions in team discussions, rather than depending on ideas already mentioned. I feel my team communication has improved slightly towards the end of the semester, although more can be done. 
+My team communication needs improvement, specifically for our game group project where I need to be more engaged in our discussions. I want to be able to provide different ideas and my opinions in team discussions, rather than depending on ideas already mentioned. I feel my team communication has improved slightly towards the end of the semester, although more can be done. I'm not sure what more I can do to improve this other than to simply engage myself more and just **do it**. 
 
 
 
