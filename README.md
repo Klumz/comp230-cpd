@@ -58,7 +58,7 @@ This week has been a struggle. I've been focusing on work but it's proven challe
 
 
 ## Week Twelve
-This is the final week, and I plan on finishing my work and reaching the deadlines.
+This is the final week, and I plan on finishing my work and reaching the deadlines. My current top priority is to finish watching the live coding videos, as they will help me progress further with my comp220 task. 
 
 
 
