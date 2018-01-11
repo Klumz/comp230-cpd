@@ -1,11 +1,8 @@
 ## 5 key challenges across different domains:
 
-### Team communication:
-My team communication needs improvement, specifically for our game group project where I need to be more engaged in our discussions. I want to be able to provide different ideas and my opinions in team discussions, rather than depending on ideas already mentioned. I feel my team communication has improved slightly towards the end of the semester, although more can be done. 
-
 
 ### C++ and Java:
-I need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers, particularly for our game in our group project. Another language I'll need to take a look at is Java, which will be needed for our next term regarding AI. 
+I *still* need to work more on my programming knowledge as I still have room for improvement. A more specific example of the language I need to improve is C++. I don't feel like I'm doing enough practice of it. I will improve this both for my course work and so I am able to provide more in-depth assistance to my peers. Another language I'll need to take a look at is Java, which will be needed for our next term regarding AI. I intend to look at Pluralsight tutorials for these two, although not sure which ones specifically yet.
 
 
 ### Prioritising course work:
@@ -17,7 +14,12 @@ My motivation has been severely cut compared to my first year due to various/per
 
 
 ### Reaching out more for assistance:
-I told myself at the start of my 2nd year that I would reach out more and use my lecturers for help whenever needed, no matter how small the issues may be. I still have yet to do this, and I am not certain why I find it so difficult to do so. I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. 
+I told myself at the start of my 2nd year that I would reach out more and use my lecturers for help whenever needed, no matter how small the issues may be. I still have yet to do this, and I am not certain why I find it so difficult to do so. I need to actually understand what I'm doing by for ex. research and looking up tutorials like I always do, as well as actually coding rather than simply following sets of steps from programming tutorials. Improving my motivation will also affect this, which will make it easier for me to ask my peers/lecturers for help rather than shying away and tackling it all myself.
+
+
+### Team communication:
+My team communication needs improvement, specifically for our game group project where I need to be more engaged in our discussions. I want to be able to provide different ideas and my opinions in team discussions, rather than depending on ideas already mentioned. I feel my team communication has improved slightly towards the end of the semester, although more can be done. 
+
 
 
 # Weekly Reports
