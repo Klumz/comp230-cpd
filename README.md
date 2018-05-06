@@ -64,4 +64,40 @@ This week has been a struggle. I've been focusing on work but it's proven challe
 This is the final week, and I plan on finishing my work and reaching the deadlines. My current top priority is to finish watching the live coding videos, as they will help me progress further with my comp220 task. 
 
 
+# 2nd Term
+
+## Week One
+Everyone's back and ready to start the term. The beginnings are usually nice and slow which gives us enough time to re-adjust ourselves. My only current worry is the fact that we'll be switching to different languages this term including C# and Java, so I'll have to sharpen my programming.
+
+## Week Two
+This week we were introduced to our new modules, and I find them interesting so far. The group game assignments are most likely going to be my favourite as I get to work with things I'm familiar with and find most fun in. One challenge I'll probably encounter is in the comp240 business module, as I'm generally not great with statistics and business-related terminologies. I will have to work on this. 
+
+## Week Three
+This week we were shown a client server chat system in our comp260 lecture. I've started looking into MUD multi-dungeon systems and how you would run your own. Overall, it looks like a fun little task with potential to create humorous stories. We also showed our AI proposals, I've realised that I have to work on making a more interesting AI behaviour.
+
+## Week Four
+This week I joined other BSc members in the studio and worked on the MUD task, as I haven't done too much of it.
+
+## Week Five
+This week we had a couple of peer reviews. We were also provided with a business case template to work off from for our comp240 assignment, which definitely helped.
+
+## Week Six
+This week was reading week, and I spent it working on our group game.
+
+## Week Seven
+This week has been particularly stressful for me as we had to present our business cases. After presenting, I realised I did it wrong as I did not read the business scenario we were provided correctly. Fortunately, our lecturer Gareth redirected me towards the right path, suggesting I try again in video format. He gives off a calming vibe that definitely helped de-stress the pressure.
+
+## Week Eight
+
+
+## Week Nine
+
+
+## Week Ten
+
+
+## Week Eleven
+
+
+## Week Twelve
 
