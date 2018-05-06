@@ -1,3 +1,5 @@
+# Most recent (second) term further below 
+
 ## 5 key challenges across different domains:
 
 
@@ -64,7 +66,7 @@ This week has been a struggle. I've been focusing on work but it's proven challe
 This is the final week, and I plan on finishing my work and reaching the deadlines. My current top priority is to finish watching the live coding videos, as they will help me progress further with my comp220 task. 
 
 
-# 2nd Term
+# Second Term
 
 ## Week One
 Everyone's back and ready to start the term. The beginnings are usually nice and slow which gives us enough time to re-adjust ourselves. My only current worry is the fact that we'll be switching to different languages this term including C# and Java, so I'll have to sharpen my programming.
@@ -82,22 +84,22 @@ This week I joined other BSc members in the studio and worked on the MUD task, a
 This week we had a couple of peer reviews. We were also provided with a business case template to work off from for our comp240 assignment, which definitely helped.
 
 ## Week Six
-This week was reading week, and I spent it working on our group game.
+This week was reading week, and I spent it working on our group game. I would've liked to spend more on BSc work but I also felt I had to help our BA members to not seem like I'm slacking with our game. 
 
 ## Week Seven
-This week has been particularly stressful for me as we had to present our business cases. After presenting, I realised I did it wrong as I did not read the business scenario we were provided correctly. Fortunately, our lecturer Gareth redirected me towards the right path, suggesting I try again in video format. He gives off a calming vibe that definitely helped de-stress the pressure.
+This week has been particularly stressful for me as we had to present our business cases. After presenting, I realised I did it wrong as I did not read the business scenario we were provided correctly. Fortunately, our lecturer Gareth redirected me towards the right path, suggesting I try again in video format. His relaxing aura helped de-stress the pressure.
 
 ## Week Eight
-
+We had several deadlines this week which I focused on. One of the tasks was for the wiki assignment which I underestimated, resulting in my late contribution. I keep relying on my virtual calendar to keep track of things like these ahead of time, but it is time to get a physical one to make it easier to keep track of my future assignments. 
 
 ## Week Nine
-
+Not much this week apart from my mind constantly reminding me of deadlines and work that needs to be done. One of my issues, much like last year, is organising my time wisely and prioritising work that needs finishing. I just need to get with it and continue working.
 
 ## Week Ten
-
+This week I've looked into the MicroRTS task and started thinking how to go about it. Not sure why, but this was one of the more difficult ones for me. Another one has to be the server task, as I'm not really sure where to start even after we were showed in lecture. I'll have to dive deeper into these two. 
 
 ## Week Eleven
-
+This week I had a slight issue with our game source code assignment as I had to find the core code I added for our mechanics, which were also changed overtime by other members so I had to dive deep. Luckily, I saved and screenshotted some of them beforehand so the problem didn't take as long as it could have.
 
 ## Week Twelve
-
+This week I've been focusing on the comp260 server-client task, as I've spent too much time away from it. I'll have to work on getting it to an acceptable level for the submission, which I am hoping to achieve.
