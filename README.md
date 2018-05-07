@@ -70,19 +70,19 @@ This is the final week, and I plan on finishing my work and reaching the deadlin
 
 ## Challenges and SMART Goals:
 
-### Engagement and confidence with my group members
+### Engagement and confidence with my group members.
 I felt I did slightly better this year with my team regarding engagement, but more work can be done for my confidence. I realised this from general self-reflection and (especially) from peer reviews/feedback during our PO meetings. Obviously, this is an important trait to have both in the industry and for myself, and I'll work on it by pushing myself even more than I did this year and interact with my fellow members more so we're all on the same page, and lastly by taking more action towards my peers' future feedback about me.
 
-### Organise my tasks and deadlines properly
+### Organise my tasks and deadlines properly.
 I had this challenge last time too, and one of my suggestions was to get a physical calendar which I have unfortunately not done yet as I've been relying on my digital one instead. This has worked, but in order to maximise results I will buy an actual calendar next time our course starts, and use it as much as I can to know where I lie. 
 
-### Push myself more to ask for support
+### Push myself more to ask for support.
 This is the challenge I don't feel I've improved upon, at least not the way I initially planned. I relied heavily on other members for support, which in hindsight I shouldn't have done considering they were often stuck on the same boat as me. This isn't necessarily bad as it can encourage group problem solving, but I should've asked our lecturers more overall for better clarity. For this, I will utilise Slack more to message lecturers in case I can't be there physically, but I will prioritise physical presence. 
 
-### Experiment more, don't be afraid to fail
+### Experiment more, don't be afraid to fail.
 A challenge I, for some reason, never considered to be a problem. I often leave work late due to fear of failing it or failing to understand it properly, so as a result I end up doing mediocre quality work and accept whatever the outcome is. In order to learn, failing is necessary and, more often than not, inevitable. To improve this, I'll link this challenge with the 2nd one (Organise my tasks and deadlines properly). The idea is; if I have a clear map of my assignments (in this case my calendar), it'll be easier to know ahead of time when I can or should work on a particular task, which will give me enough time to experiment and therefore improve. 
 
-### Give myself time to clear my thoughts *appropriately*
+### Give myself time to clear my thoughts *appropriately*.
 Emphasis on "appropriately". I either do lots of work in a set time with no breathing room or do no work for long periods of time until I do. There is no in-between. I believe this is because I tell myself I'll use a particular day only for work, then justify my long breaks after with that reason. This is not healthy, as it increases chances of crunch time and conflicts involving task prioritisation. I need to practice spacing my time appropriately instead of putting everything in one day and barely touching it on the next.  
 
 ## Weekly Reports
