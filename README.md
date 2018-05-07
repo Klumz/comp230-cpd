@@ -66,7 +66,7 @@ This week has been a struggle. I've been focusing on work but it's proven challe
 This is the final week, and I plan on finishing my work and reaching the deadlines. My current top priority is to finish watching the live coding videos, as they will help me progress further with my comp220 task. 
 
 
-# Second Term (most recent)
+# Second Term
 
 ## Challenges and SMART Goals:
 
@@ -85,6 +85,7 @@ A challenge I, for some reason, never considered to be a problem. I often leave 
 ### Give myself time to clear my thoughts *appropriately*
 Emphasis on "appropriately". I either do lots of work in a set time with no breathing room or do no work for long periods of time until I do. There is no in-between. I believe this is because I tell myself I'll use a particular day only for work, then justify my long breaks after with that reason. This is not healthy, as it increases chances of crunch time and conflicts involving task prioritisation. I need to practice spacing my time appropriately instead of putting everything in one day and barely touching it on the next.  
 
+## Weekly Reports
 
 ## Week One
 Everyone's back and ready to start the term. The beginnings are usually nice and slow which give us enough time to re-adjust ourselves. My only current worry is the fact that we'll be switching to different languages this term including C# and Java, so I'll have to sharpen my programming.
