@@ -103,7 +103,7 @@ This week I joined other BSc members in the studio and worked on the MUD task, a
 This week we had a couple of peer reviews. We were also provided with a business case template to work off from for our comp240 assignment, which definitely helped.
 
 ### Week Six
-This week was reading week, and I spent it working on our group game. I would've liked to spend more on BSc work but I also felt I had to help our BA members to not seem like I'm slacking with our game. 
+This week was reading week, and I spent it working on our group game. I would've liked to spend more on BSc work but I also felt I had to help our BA members and at least remind them of my presence.
 
 ### Week Seven
 This week has been particularly stressful for me as we had to present our business cases. After presenting, I realised I did it wrong as I did not read the business scenario we were provided correctly. Fortunately, our lecturer Gareth redirected me towards the right path, suggesting I try again in video format. His relaxing aura helped de-stress the pressure.
