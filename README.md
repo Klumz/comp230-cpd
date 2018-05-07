@@ -87,38 +87,38 @@ Emphasis on "appropriately". I either do lots of work in a set time with no brea
 
 ## Weekly Reports
 
-## Week One
+### Week One
 Everyone's back and ready to start the term. The beginnings are usually nice and slow which give us enough time to re-adjust ourselves. My only current worry is the fact that we'll be switching to different languages this term including C# and Java, so I'll have to sharpen my programming.
 
-## Week Two
+### Week Two
 This week we were introduced to our new modules, and I find them interesting so far. The group game assignments are most likely going to be my favourite as I get to work with things I'm familiar with and find most fun in. One challenge I'll probably encounter is in the comp240 business module, as I'm generally not great with statistics and business-related terminologies. I will have to work on this. 
 
-## Week Three
+### Week Three
 This week we were shown a client server chat system in our comp260 lecture. I've started looking into MUD multi-dungeon systems and how you would run your own. Overall, it looks like a fun little task with potential to create humorous stories. We also showed our AI proposals, I've realised that I have to work on making a more interesting AI behaviour.
 
-## Week Four
+### Week Four
 This week I joined other BSc members in the studio and worked on the MUD task, as I haven't done too much of it.
 
-## Week Five
+### Week Five
 This week we had a couple of peer reviews. We were also provided with a business case template to work off from for our comp240 assignment, which definitely helped.
 
-## Week Six
+### Week Six
 This week was reading week, and I spent it working on our group game. I would've liked to spend more on BSc work but I also felt I had to help our BA members to not seem like I'm slacking with our game. 
 
-## Week Seven
+### Week Seven
 This week has been particularly stressful for me as we had to present our business cases. After presenting, I realised I did it wrong as I did not read the business scenario we were provided correctly. Fortunately, our lecturer Gareth redirected me towards the right path, suggesting I try again in video format. His relaxing aura helped de-stress the pressure.
 
-## Week Eight
+### Week Eight
 We had several deadlines this week which I focused on. One of the tasks was for the wiki assignment which I underestimated, resulting in my late contribution. I keep relying on my virtual calendar to keep track of things like these ahead of time, but it is time to get a physical one to make it easier to keep track of my future assignments. 
 
-## Week Nine
+### Week Nine
 Not much this week apart from my mind constantly reminding me of deadlines and work that needs to be done. One of my issues, much like last year, is organising my time wisely and prioritising work that needs finishing. I just need to get with it and continue working.
 
-## Week Ten
+### Week Ten
 This week I've looked into the MicroRTS task and started thinking how to go about it. Not sure why, but this was one of the more difficult ones for me. Another one has to be the server task, as I'm not really sure where to start even after we were showed in lecture. I'll have to dive deeper into these two. 
 
-## Week Eleven
+### Week Eleven
 This week I had a slight issue with our game source code assignment as I had to find the core code I added for our mechanics, which were also changed overtime by other members so I had to dive deep. Luckily, I saved and screenshotted some of them beforehand so the problem didn't take as long as it could have.
 
-## Week Twelve
+### Week Twelve
 This week I've been focusing on the comp260 server-client task, as I've spent too much time away from it. I'll have to work on getting it to an acceptable level for the submission, which I am hoping to achieve.
