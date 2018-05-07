@@ -68,6 +68,18 @@ This is the final week, and I plan on finishing my work and reaching the deadlin
 
 # Second Term
 
+## Challenges and SMART Goals:
+
+### Engagement and confidence with my group members
+
+### Organise my tasks and deadlines properly
+
+### Push myself more to ask for support
+
+### Experiment more, don't be afraid to fail
+
+### Give myself time to clear my thoughts *appropriately*
+
 ## Week One
 Everyone's back and ready to start the term. The beginnings are usually nice and slow which gives us enough time to re-adjust ourselves. My only current worry is the fact that we'll be switching to different languages this term including C# and Java, so I'll have to sharpen my programming.
 
